@@ -40,4 +40,10 @@ https://www.kaggle.com/datasets/rishikeshkonapure/hr-analytics-prediction
 Step2: Download "HR Analytics.pbix" file from the repository  
 Step3: Import downloaded .csv file in Power BI Desktop  
 
+**<h2>Dashboard | Power BI</h2>**  
+
+**Desktop View**  
+
+
+
 
