@@ -2,7 +2,7 @@
 
 **This project aims to analyze employee attrition data and identify factors that contribute to employee attrition using Power BI.**
 
-Data Source
+**Data Source**
 
 The data for this project is sourced from kaggle, which includes information about employees such as age, job role, MonthlyIncome, JobSatisfaction, and more.  
 Kaggle: https://www.kaggle.com/datasets/rishikeshkonapure/hr-analytics-prediction
