@@ -44,6 +44,7 @@ Step3: Import downloaded .csv file in Power BI Desktop
 
 **Desktop View**  
 
+![HR_Analytics](https://user-images.githubusercontent.com/47376889/230765214-c7344fa0-27bf-4e7d-97bd-898071bc6acd.JPG)
 
 
 
