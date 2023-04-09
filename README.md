@@ -22,11 +22,10 @@ The following are some of the key performance indicators (KPIs) used to measure 
 The project analyzes employee attrition data and identifies patterns and trends in the data that can help HR managers better understand the reasons behind employee turnover. The following are some of the key analyses performed in this project:
 
 **Attrition by Department:** The project analyzes the attrition rate by department to identify which departments have the highest attrition rate.  
-Attrition by Education Field: The project analyzes the attrition rate by education field to identify which education fields have the highest attrition rate.  
-Job Satisfaction Rating Job Role: The project analyzes the job satisfaction rating job role job satisfaction by rating to identify which job role have the highest satisfaction rate.  
+**Attrition by Education Field:** The project analyzes the attrition rate by education field to identify which education fields have the highest attrition rate.  
+**Job Satisfaction Rating Job Role:** The project analyzes the job satisfaction rating job role job satisfaction by rating to identify which job role have the highest satisfaction rate.  
 **No of Employees by Age:** The project analyzes the no of employees by age which are working in organization.  
-The project includes several visualizations that help to better understand the data and identify patterns and trends. The following are some of the visualizations included in this project:  
-Attrition by Marital Status: The project analyzes the attrition rate by marital Status to identify which marital status having highest attrition rate.  
+**Attrition by Marital Status:** The project analyzes the attrition rate by marital Status to identify which marital status having highest attrition rate.  
 
 **Conclusion**
 
