@@ -1,4 +1,4 @@
-**<h1>Analyzing Employee Attrition using Power BI</h1>**
+**<h1>Analyzing Employee Attrition by using Power BI</h1>**
 
 **This project aims to analyze employee attrition data and identify factors that contribute to employee attrition using Power BI.**
 
